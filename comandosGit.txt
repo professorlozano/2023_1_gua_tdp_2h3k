@@ -1,0 +1,5 @@
+//iniciar um controle de versões 
+git init
+
+//verificar atualizações/modificações no projeto
+git status
