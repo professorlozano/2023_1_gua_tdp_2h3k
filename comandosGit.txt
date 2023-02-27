@@ -28,3 +28,12 @@ git reset --hard numerodoiddocommit
 //retorna para um determinado numero de commits
 git reset --hard head~1
 
+//vincular com repositorio remoto
+git remote + endereço do repositorio
+
+//subir para repositorio remoto
+git push -u origin main
+
+//verificar o repositorio remoto
+git pull
+
