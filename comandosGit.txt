@@ -15,3 +15,6 @@ git config --global user.name "seu nome"
 
 //adicionar email do usuário
 git config --global user.email "seu email"
+
+//adicionar todas as alterações do projeto na próxima versao
+git add .
