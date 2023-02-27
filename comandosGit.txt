@@ -3,3 +3,15 @@ git init
 
 //verificar atualizações/modificações no projeto
 git status
+
+//adicionar o arquivo mencionado na proxima versao
+git add nomedoarquivo.extensaodoarquivo
+
+//criar a próxima versao
+git commit -m "descrição breve da versao criada"
+
+//adicionar nome de usuário
+git config --global user.name "seu nome"
+
+//adicionar email do usuário
+git config --global user.email "seu email"
